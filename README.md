@@ -1,6 +1,6 @@
 # Azure Function App Using C# with Example Calculator
   Create an Azure Function App Using C#
-# Why use Azure Functs
+# Why use Azure Functions
 Azure Functions is a serverless compute service that enables you to run event-driven code without having to explicitly provision or manage infrastructure. Here are five points about why Azure Functions are beneficial, along with examples:
 Summarized Examples:
 1. **Cost-Effective**: Automatically scaling notifications for an e-commerce site.
