@@ -1,4 +1,4 @@
-![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/5c2a4dd9-08ea-4063-b48d-96a43541d210)# Azure Function App Using C# 
+# Azure Function App Using C# with Example Calculator
   Create an Azure Function App Using C#
 
 **What is Azure Functions**
