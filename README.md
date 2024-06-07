@@ -63,9 +63,24 @@ After Next Make Sure you are SignIn with your Azure Login Account , then Search 
 ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/8e7093bd-d908-4f02-bb04-e0f9d324e937)
 and click on Publish Button
 ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/839e83d6-b8ed-4c4c-a777-1f3c518d7917)
+![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/595fbba9-9025-4f0c-a99c-c683e4498435)
+
+Go back to https://portal.azure.com/ 
+
+click on your Function CalculatorWithAzure-func scroll down check your Function Class Sum and Click 
+
+![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/5dd4604e-f4e6-41b3-8f5b-cb8e3f082d5b)
+
+get the URl from Get Function URl and redesign your URL with Parameters 
+![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/12b39c2a-3d6e-477c-917f-ab3656908c34)
+
+Output of Azure Function URl 
+![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/703d3edd-4d94-401d-9f97-a8d4ee691e91)
 
 
+End Test your URL as bellow 
 
+https://calculatorwithazure-func.azurewebsites.net/api/Sum?x=100&y=10&code=ltvfazHLKrR2Skm4lG31KsTu7i3aWHRxVbUNHEcmrkjZAzFuAbiu1w%3D%3D
 
 
 
