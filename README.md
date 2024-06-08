@@ -2,6 +2,12 @@
  An Azure Function App has been created. Let's explore the process of building, configuring, and executing a function within this app.
  Specifically, we will create a Calculator Function as part of this Function App.
  
+
+# What is Azure Functions
+  1. Serverless Services in Microsoft Azure   compariable to AWS/Lambda /Google Cloud Functions
+  2. Event-driven serverless platform for problem solving
+  3. Support various programming languages
+  4. The Function App contains 1-n functions
 # Why use Azure Functions
 Azure Functions is a serverless compute service that enables you to run event-driven code without having to explicitly provision or manage infrastructure. Here are five points about why Azure Functions are beneficial, along with examples:
 Summarized Examples:
@@ -11,12 +17,6 @@ Summarized Examples:
 4. **Microservices Architecture**: Modular functions handling separate services in a web app.
 5. **Monitoring and Analytics**: Real-time monitoring of data processing functions with Azure Application Insights.
  
-**What is Azure Functions**
-  1. Serverless Services in Microsoft Azure   compariable to AWS/Lambda /Google Cloud Functions
-  2. Event-driven serverless platform for problem solving
-  3. Support various programming languages
-  4. The Function App contains 1-n functions
-
 **Follow the bellow steps for create a Azure Function App**
 1. Click on create resource.
 ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/f4d8acba-eb17-407b-979e-950bbb073bb3)
