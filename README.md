@@ -107,6 +107,8 @@ End Test your URL as bellow
 https://calculatorwithazure-func.azurewebsites.net/api/Sum?x=100&y=10&code=ltvfazHLKrR2Skm4lG31KsTu7i3aWHRxVbUNHEcmrkjZAzFuAbiu1w%3D%3D
 
 
+**Next we will Triggers and bindings**
+
 
 
 
