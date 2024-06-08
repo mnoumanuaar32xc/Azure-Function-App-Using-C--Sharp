@@ -44,6 +44,9 @@ The **Premium plan** also dynamically scales your resources to meet demand, but 
    8.  version 6 (End of Support Nov 8 2024 for dot net 6)
    9.  Region Weste Europe
    10.  click on Next Networking in Paid versions It shows Storage so you just create a storage account and chose the operating and chose the plan and click on Netx button
+  **Storage account requirements**
+  When you create a function app, it must be linked to a storage account. You can select an existing account or create a new one. The function app uses this storage account for internal   operations, such as logging function executions and managing execution triggers. On the Consumption plan, this storage account is also where the function code and configuration file are stored.
+
    11. Next is Networking (Networkig is not avaliable for azure function so that use the consumption plan click on netx button Monitoring Tab will be appear) click on Enable insight No
    12. click on next > Deployment click on Next Tags without any setting and then next click Next> review +create
 
