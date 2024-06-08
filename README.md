@@ -19,9 +19,22 @@ Summarized Examples:
 1. Click on create resource.
 ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/f4d8acba-eb17-407b-979e-950bbb073bb3)
 2. search the Function App in search bar and click on create
-3. select the hosting option as per your demand by default Consumptions are selected then click on select button 
+  4. select the hosting option as per your demand by default Consumptions are selected then click on select button
+
+  **Choose a service plan**
+Function apps may use one of the following hosting plans:
+
+**Consumption plan
+Premium plan
+Dedicated (App service) plan**
+When using the Azure serverless application platform, choose the Consumption plan. This plan provides automatic scaling and bills you only when your functions are running. The **Consumption** plan comes with a configurable timeout period for executing a function. By default, it's five (5) minutes, but may be configured to have a timeout as long as 10 minutes.
+
+The **Premium plan** also dynamically scales your resources to meet demand, but you can specify a minimum number of VM instances to keep warm and reduce so called "cold starts." The Premium plan also lets your functions connect to and run inside virtual networks. Like the Dedicated plan, the default timeout for apps in a Premium plan is 30 minutes, but they can essentially run for an unlimited time (depending on server availability).
+
+**The Dedicated (App service)** plan enables you to avoid timeout periods by having your function run continuously on a VM that you define. An App service plan is technically not a serverless plan, because you're responsible for managing the app resources the function runs on. However, it may be a better choice when you already have excess App Service resources available on which to also run your functions.
+
    ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/5849d582-d40c-4a50-81e3-210bdfafe810)
-4. click on create new of resourse group ( Azure Subscriptions are a logical unit of Azure services that are linked to an Azure account. In order to take advantage of Azure's cloud-based services, you must have a subscription as it serves as a single billing unit for Azure resources used in that account)
+6. click on create new of resourse group ( Azure Subscriptions are a logical unit of Azure services that are linked to an Azure account. In order to take advantage of Azure's cloud-based services, you must have a subscription as it serves as a single billing unit for Azure resources used in that account)
    My Subscription Resourse group name is **Calculator**
    ![image](https://github.com/mnoumanuaar32xc/Azure-Function-App-Using-C--Sharp/assets/8413883/f0451131-4464-466b-a5cb-cc36640a299c)
 
